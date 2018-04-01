@@ -1,0 +1,1 @@
+from istorage import Storage
