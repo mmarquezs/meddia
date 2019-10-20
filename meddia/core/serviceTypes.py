@@ -1,0 +1,12 @@
+class ServiceType(Enum):
+    INFOPROVIDER = 1
+    CONTENTINDEXER = 2
+    DOWNLOADER = 3
+    NOTIFICATIONS = 4
+    DATABASE = 5
+    GENERIC = 6
+    SCHEDULER = 7
+    INTERFACE = 8
+    CONFIG = 9
+    STORAGE = 10
+    PLUGIN = 11
